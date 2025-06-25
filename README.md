@@ -10,7 +10,7 @@ This code is a project that I will update once a week. For now, I have shared th
 ```pip install pathlib```
 ```pip install psutil```
 ```python main.py```
-
+![WannaHappy](https://github.com/rootzombies/WannaHappy/blob/main/wannahappy.png)
 ## What extensions are available now?
 - .djvu
 - .rumba
