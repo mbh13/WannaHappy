@@ -19,7 +19,7 @@ if choice == 1:
 elif choice == 2:
     print("Thx to those who use this tool")
     print("\n")
-    os.system("python WannaHappy.py")
+    os.system("python decryptor.py")
 elif choice == 3:
     print("Thx to those who use this tool")
     print("\n")
