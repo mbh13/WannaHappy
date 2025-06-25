@@ -57,6 +57,7 @@ This code is a project that I will update once a week. For now, I have shared th
 - .crypted000007
 
 
-
+## So prove it's true?
+For this, we made a djvu ransomware that only encrypts the test directory it is in. There is absolutely no decryption tool that can solve it 100% of the time, but we give you an example: ```EXAMPLE-DJVU.py```
 
 *Last updated: 25.06.2025*
