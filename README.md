@@ -11,5 +11,52 @@ This code is a project that I will update once a week. For now, I have shared th
 ```pip install psutil```
 ```python main.py```
 
+## What extensions are available now?
+- .djvu
+- .rumba
+- .promos
+- .promoz
+- .kroput
+- .charck
+- .verasto
+- .moresa
+- .pulsar1
+- .drume
+- .crypt
+- .ecc
+- .xtbl
+- .grovas
+- .roland
+- .gusau
+- .shadow
+- .mtogas
+- .pedro
+- .locky
+- .cerber
+- .cryptolocker
+- .wannacry
+- .petya
+- .badrabbit
+- .dharma
+- .conti
+- .nephilim
+- .avaddon
+- .makop
+- .egregor
+- .turkstatik
+- .wannacryfake
+- .xorist
+- .szflocker
+- .cryptinfinite
+- .troldesh
+- .keyranger
+- .blackkingdom
+- .carl
+- .shade
+- .crylock
+- .crypted000007
+
+
+
 
 *Last updated: 25.06.2025*
